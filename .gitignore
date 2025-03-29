@@ -1,4 +1,5 @@
 **/obj/*
+*.code-workspace
 
 # Prerequisites
 *.d
