@@ -9,10 +9,15 @@
  *  Description:      This program receives a name or a phrase (a string) and
  *  splits it by spaces, so it outputs single words. 
  *
- *  Modified:         __MODIFIED_ON__
+ *  Modified:         Mon Apr 21 22025
  *
  */
 
+#include <stdio.h>
+#include <stdlib.h>
 
+int main(int argc, char *argv[]) {
 
+    return EXIT_SUCCESS;
+}
 
